@@ -1,3 +1,4 @@
 hello
 Hello world!
 print ('Hello')
+print ('Hello')
